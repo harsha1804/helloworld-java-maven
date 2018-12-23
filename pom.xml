@@ -41,13 +41,13 @@
 <distributionManagement>
     <repository>
         <id>sym</id>
-        <name>release softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <name>release arti</name>
+        <url>http://52.66.212.86:8081/repository/harsha/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
-        <name>snapshot softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <name>snapshot arti</name>
+        <url>http://52.66.212.86:8081/repository/harsha/</url>
     </snapshotRepository>
 </distributionManagement>
 
